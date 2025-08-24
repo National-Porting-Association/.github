@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/jNkStQP.png" alt="National Porting Association Banner" width="100%">
 </p>
 
-<h1 align="center">🌐 National Porting Association (NPA)</h1>
+<h1 align="center">National Porting Association (NPA)</h1>
 <p align="center">
   <em>Bringing PC games to the web — accessible anywhere, anytime.</em>
 </p>
@@ -24,19 +24,11 @@ Here are some of our favorite ports:
 
 ---
 
-## 📂 Explore Our Work
-Every repository in this organization may include:
-- 🔧 Source code & tools for game ports  
-- 📖 Documentation for setup & deployment  
-- 🎯 Compatibility fixes and optimizations  
-
----
-
 ## 👥 About Us
 We are a collective of developers, modders, and enthusiasts passionate about:  
-- 🎮 Preserving PC games  
-- 🌍 Making them playable in the browser  
-- 🚀 Pushing the limits of web technology  
+-  Preserving PC games  
+-  Making them playable in the browser  
+-  Pushing the limits of web technology  
 
 ---
 
