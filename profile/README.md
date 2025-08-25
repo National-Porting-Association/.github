@@ -4,7 +4,7 @@
 
 <h1 align="center">National Porting Association (NPA)</h1>
 <p align="center">
-  <em>Bringing PC games to the web — accessible anywhere, anytime.</em>
+  <em>Transforming PC gaming experiences into seamless web adventures.</em>
 </p>
 
 ---
@@ -47,5 +47,6 @@ We welcome collaboration from the community!
 - 👀 **Follow NPA** for updates on new ports  
 
 <p align="center">
-  <em>Together, we’re making PC gaming accessible on the web.</em>
+  <em>Together, we are transforming PC gaming experiences into seamless web adventures.
+</em>
 </p>
