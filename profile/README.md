@@ -14,6 +14,7 @@ Here are some of our favorite ports:
 - **Cuphead**  
 - **R.E.P.O**  
 - **Raft**
+- **Hollow Knight**
 
 ---
 
