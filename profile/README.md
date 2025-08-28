@@ -19,9 +19,7 @@ Here are some of our favorite ports:
 ---
 
 ## 🚀 What We Do
-- Port PC games using **WebAssembly**, **WebGL**, and **WebGPU**  
-- Optimize performance for **smooth browser gameplay**  
-- Expand accessibility for gamers around the world  
+- Port PC games to the web browser
 
 ---
 
