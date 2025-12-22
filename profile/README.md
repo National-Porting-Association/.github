@@ -9,7 +9,7 @@
 
 ---
 
-## 🎮 Featured Ports
+## Featured Ports
 Here are some of our favorite ports:
 - **Cuphead**  
 - **R.E.P.O**  
@@ -18,12 +18,12 @@ Here are some of our favorite ports:
 
 ---
 
-## 🚀 What We Do
+## What We Do
 - Port PC games to the web browser
 
 ---
 
-## 👥 About Us
+## About Us
 We are a collective of developers, modders, and enthusiasts passionate about:  
 -  Preserving PC games  
 -  Making them playable in the browser  
@@ -31,7 +31,7 @@ We are a collective of developers, modders, and enthusiasts passionate about:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Want to get involved?  
 1. Fork a repo  
 2. Submit a pull request  
@@ -41,9 +41,9 @@ We welcome collaboration from the community!
 
 ---
 
-## 📢 Stay Connected
-- ⭐ **Star our repositories** to support the project  
-- 👀 **Follow NPA** for updates on new ports  
+## Stay Connected
+- **Star our repositories** to support the project  
+- **Follow NPA** for updates on new ports  
 
 <p align="center">
   <em>Together, we are transforming PC gaming experiences into seamless web adventures.
